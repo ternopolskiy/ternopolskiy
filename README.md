@@ -31,7 +31,7 @@
   <br />
 
   <!-- Технологии и навыки -->
-  <h3>🛠 Технологии и инструменты</h3>
+  <h3>🛠 Теch</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,javascript,php,nodejs,express,mongodb,redis,postgresql,docker,git,linux,vscode,figma,html,css,c,cpp,java,sql" alt="Skills" />
   </p>
@@ -49,7 +49,7 @@
   <br />
 
   <!-- Социальные ссылки -->
-  <h3>📫 Свяжись со мной</h3>
+  <h3>📫 Contacts</h3>
   <p>
     <a href="https://t.me/sex_akula" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
