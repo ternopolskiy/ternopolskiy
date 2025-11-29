@@ -20,14 +20,6 @@
 
   <br />
 
-  <!-- Счетчик дней -->
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=ternopolskiy&theme=omni&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"
-      alt="GitHub Streak"
-    />
-  </a>
-
   <!-- Трофеи -->
   <a href="https://github.com/ternopolskiy/github-profile-trophy">
     <img
